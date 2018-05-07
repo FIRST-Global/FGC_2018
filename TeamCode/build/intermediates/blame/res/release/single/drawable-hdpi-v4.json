@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\FtcCommon\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\button_shape.xml",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\FtcCommon\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\button_shape.xml"
+    }
+]

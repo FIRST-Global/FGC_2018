@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\release\\menu\\menu_server.xml",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\Blocks\\build\\intermediates\\bundles\\release\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\release\\menu\\main_menu.xml",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\Inspection\\build\\intermediates\\bundles\\release\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\release\\menu\\ftc_robot_controller.xml",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\FtcRobotController\\build\\intermediates\\bundles\\release\\res\\menu\\ftc_robot_controller.xml"
+    }
+]

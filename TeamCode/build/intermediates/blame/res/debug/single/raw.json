@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\errormessage.wav",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\FtcCommon\\build\\intermediates\\bundles\\debug\\res\\raw\\errormessage.wav"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\nxtstartupsound.wav",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\FtcCommon\\build\\intermediates\\bundles\\debug\\res\\raw\\nxtstartupsound.wav"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\chimedisconnect.wav",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\FtcCommon\\build\\intermediates\\bundles\\debug\\res\\raw\\chimedisconnect.wav"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\warningmessage.wav",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\FtcCommon\\build\\intermediates\\bundles\\debug\\res\\raw\\warningmessage.wav"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\chimeconnect.wav",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\FtcCommon\\build\\intermediates\\bundles\\debug\\res\\raw\\chimeconnect.wav"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\texture_vertex_shader.glsl",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\RobotCore\\build\\intermediates\\bundles\\debug\\res\\raw\\texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_fragment_shader.glsl",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\RobotCore\\build\\intermediates\\bundles\\debug\\res\\raw\\cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_vertex_shader.glsl",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\RobotCore\\build\\intermediates\\bundles\\debug\\res\\raw\\cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\color_fragment_shader.glsl",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\RobotCore\\build\\intermediates\\bundles\\debug\\res\\raw\\color_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\RobotCore\\build\\intermediates\\bundles\\debug\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw\\texture_fragment_shader.glsl",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\RobotCore\\build\\intermediates\\bundles\\debug\\res\\raw\\texture_fragment_shader.glsl"
+    }
+]

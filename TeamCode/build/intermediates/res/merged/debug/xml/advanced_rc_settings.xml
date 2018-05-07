@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/titleAdvancedRCSettings2"
+        >
+
+        <PreferenceScreen
+            android:title="@string/titleLynxFirmwareUpdate"
+            android:summary="@string/summaryLynxFirmwareUpdate"
+            android:key="@string/pref_launch_lynx_firmware_update">
+            <intent
+                android:targetPackage="@string/packageName"
+                android:targetClass="com.qualcomm.ftccommon.FtcLynxFirmwareUpdateActivity"
+                />
+        </PreferenceScreen>
+
+        <PreferenceScreen
+            android:title="@string/titleLynxModuleAddressUpdate"
+            android:summary="@string/summaryLynxAddressUpdate"
+            android:key="@string/pref_launch_lynx_address_update">
+            <intent android:targetPackage="@string/packageName"
+                    android:targetClass="com.qualcomm.ftccommon.FtcLynxModuleAddressUpdateActivity"
+                />
+        </PreferenceScreen>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

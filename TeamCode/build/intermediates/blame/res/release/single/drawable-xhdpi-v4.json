@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_menu.png",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\FtcRobotController\\build\\intermediates\\bundles\\release\\res\\drawable-xhdpi-v4\\icon_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_robotcontroller.png",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\FtcRobotController\\build\\intermediates\\bundles\\release\\res\\drawable-xhdpi-v4\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\FtcCommon\\build\\intermediates\\bundles\\release\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    }
+]

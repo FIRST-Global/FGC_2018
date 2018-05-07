@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback_shape_orange.xml",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\RobotCore\\build\\intermediates\\bundles\\debug\\res\\drawable\\feedback_shape_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shape.xml",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\FtcCommon\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\black_border.xml",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\Blocks\\build\\intermediates\\bundles\\debug\\res\\drawable\\black_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_robotcontroller.png",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\Inspection\\build\\intermediates\\bundles\\debug\\res\\drawable\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu.png",
+        "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\Blocks\\build\\intermediates\\bundles\\debug\\res\\drawable\\icon_menu.png"
+    }
+]
