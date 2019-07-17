@@ -1,5 +1,8 @@
-## Welcome!
-This GitHub repository contains the source code that is used to build an Android app to control a *FIRST* Global competition robot.  To use this SDK, download/clone the entire project to your local computer.
+## This repository cannot be used for FIRST Global 2019 and later
+
+---
+
+This GitHub repository contains the source code that is used to build an Android app to control a 2018 *FIRST* Global competition robot.  To use this SDK, download/clone the entire project to your local computer.
 
 If you are new to the *FIRST* Global software and control system, you should read the setup guide to learn how to install, configure, and use the software and control system:
 
